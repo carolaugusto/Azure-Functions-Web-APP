@@ -9,14 +9,14 @@
 
 -- table produtos
 INSERT INTO produtos VALUES(1, 'Caneta', 'Caneta Faber Castell Preta', 4560 )
-INSERT INTO produtos VALUES(2, 'Cafeteira'  'Cafeteira Philco Inox Red', 507)
+INSERT INTO produtos VALUES(2, 'Cafeteira',  'Cafeteira Philco Inox Red', 507)
 INSERT INTO produtos VALUES(3, 'Mouse', 'Mouse sem Fio Logitech vermelho', 978)
 
 
 -- table categorias
 INSERT INTO categorias VALUES(1, 1, 'Papelaria')
 INSERT INTO categorias VALUES(2, 2, 'Eletrodomesticos')
-INSERT INTO categorias VALUES(3, 3, 'Infotmatica'
+INSERT INTO categorias VALUES(3, 3, 'Informatica'
 COMMIT;
 
 -- DQL
